@@ -1,0 +1,20 @@
+# daejin.tanso.server
+
+`.env`
+```env
+## Server Info
+SERVER_HOST = "127.0.0.1"
+SERVER_PORT = 8000
+SERVER_DEBUG_MODE = False
+
+## MySQL INFO
+MYSQL_HOST = "127.0.0.1"
+MYSQL_USER = ""
+MYSQL_PASSWORD = ""
+MYSQL_DB = ""
+
+## JWT
+JWT_SECRET_KEY = ""
+JWT_ALGORITHM = "HS256"
+JWT_ACCESS_TOKEN_EXPIRE_MINUTES = 30
+```

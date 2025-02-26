@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pymysql
+bcrypt
+pyJWT
+openai
+pydantic
+typing
+pillow
+tensorflow
+numpy
+pandas
+sentence_transformers
+scikit-learn
+python-dotenv
+tf-keras
+python-multipart
